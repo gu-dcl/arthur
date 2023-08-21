@@ -40,9 +40,9 @@ metadata: collectionbuilder-arthur
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: ""
+organization-name: "Scholarly Resources"
 # organization-link: 
-organization-logo-banner: https://github.com/gu-dcl/arthur/blob/main/objects/King_Arthur_Carousel.jpg
+organization-logo-banner: "https://github.com/gu-dcl/arthur/blob/main/objects/King_Arthur_Carousel.jpg"
 # organization-logo-nav: 
 
 
