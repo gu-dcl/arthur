@@ -25,7 +25,7 @@ title: CollectionBuilder-Arthur Demo
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Creating an Arthurian repository with Collection-Builder"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: emw
 
@@ -42,7 +42,7 @@ metadata: collectionbuilder-arthur
 #
 # organization-name: ""
 # organization-link: 
-# organization-logo-banner: https://github.com/gu-dcl/arthur/blob/main/objects/King_Arthur_Carousel.jpg
+organization-logo-banner: https://github.com/gu-dcl/arthur/blob/main/objects/King_Arthur_Carousel.jpg
 # organization-logo-nav: 
 
 
